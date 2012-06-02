@@ -1,4 +1,4 @@
 rottenpotatoes
 ==============
 
-SaaS study framework
+SaaS study framework for learning SOA using ruby on rails
