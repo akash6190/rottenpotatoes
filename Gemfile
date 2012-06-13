@@ -28,7 +28,7 @@ gem 'jquery-rails'
 gem 'haml'
 
 #Gem for using neo4j graph database for extending rottenpotatoes
-#gem 'neography'
+gem 'neography'
 
 
 #Use debugger for devlopment environment
